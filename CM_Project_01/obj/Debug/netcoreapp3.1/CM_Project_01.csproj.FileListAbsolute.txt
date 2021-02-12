@@ -1,0 +1,11 @@
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.exe
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.deps.json
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.runtimeconfig.json
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.runtimeconfig.dev.json
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.dll
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\bin\Debug\netcoreapp3.1\CM_Project_01.pdb
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\obj\Debug\netcoreapp3.1\CM_Project_01.csprojAssemblyReference.cache
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\obj\Debug\netcoreapp3.1\CM_Project_01.AssemblyInfoInputs.cache
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\obj\Debug\netcoreapp3.1\CM_Project_01.AssemblyInfo.cs
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\obj\Debug\netcoreapp3.1\CM_Project_01.dll
+D:\Users\James\Documents (HDD)\WSB UNI\Year Two\Semester 1\Computational Methods\CM_Project_01\obj\Debug\netcoreapp3.1\CM_Project_01.pdb
